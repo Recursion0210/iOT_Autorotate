@@ -1,0 +1,2 @@
+# iOT_Autorotate
+Swift中关于控制ViewController的横竖屏切换
